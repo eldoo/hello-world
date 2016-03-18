@@ -1,4 +1,4 @@
 hello-world
 ============
 
-Hello world test!
+Sample readme file for Hello world test!
